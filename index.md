@@ -1,5 +1,15 @@
-Here you can say lots of fun things about your site.
+我是TwelveNight，热衷于技术探索与学习。作为一名后端开发爱好者，我在Go语言生态系统（Gin、GORM）中积累了一定经验，同时也对数据库、容器化技术和微服务架构有所实践。
 
-Maybe say a some things about yourself.
+这个博客将是我分享技术心得和学习历程的平台。我计划定期更新：
 
-Or maybe what you plan to blog about.
+- 后端开发实践与经验分享
+- Golang、Docker、k8s等技术栈的学习笔记
+- Linux系统折腾日记与趣味配置分享
+
+同时，我对人工智能领域充满热情，正在从机器学习基础知识向深度学习方向进阶。在这里，我也会记录：
+
+- 人工智能学习路径与资源推荐
+- 算法实现与模型训练的实践经验
+- 前沿AI技术的学习笔记与思考
+
+通过这个博客，我希望不仅能整理自己的学习成果，也能与志同道合的朋友交流探讨，共同进步。欢迎大家一起分享技术的乐趣！
