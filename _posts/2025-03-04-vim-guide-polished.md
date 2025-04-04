@@ -231,3 +231,5 @@ Vim并不只是一个编辑器，它还是一门编程语言，所以很多工�
 
 - https://missing-semester-cn.github.io/2020/editors/
 - https://gitlab.com/wsdjeg/Learn-Vim_zh_cn
+
+如果你对本文内容感兴趣，欢迎访问[微信公众号版本](https://mp.weixin.qq.com/s/l7t1o6iflrqAWWd0b1tC6A)获取更多信息。
